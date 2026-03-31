@@ -13,7 +13,7 @@ public class BottleManager : MonoBehaviour
 
         Debug.Log("Bottles grabbed: " + bottlesGrabbed);
 
-        if (bottlesGrabbed >= 3)
+        if (bottlesGrabbed >= 7)
         {
             TeleportPlayer();
         }
