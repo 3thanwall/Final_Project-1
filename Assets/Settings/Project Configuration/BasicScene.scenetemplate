@@ -444,11 +444,13 @@ MonoBehaviour:
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: b3ac8db200c144b139e3a2d0b8615e9a, type: 3}
     instantiationMode: 0
-  - dependency: {fileID: 2800000, guid: 08307cab448ce6448befb3fd6fd72b1c, type: 3}
+  - dependency: {fileID: 2800000, guid: 9d2056dcf837a4c4ab662ffd4e65d641, type: 3}
     instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: be990093e918c4f028c443bcc90dd9f1, type: 3}
+    instantiationMode: 1
   - dependency: {fileID: 2800000, guid: 85e675893a909864d9c237e20202651b, type: 3}
     instantiationMode: 0
-  - dependency: {fileID: 2800000, guid: 9d2056dcf837a4c4ab662ffd4e65d641, type: 3}
+  - dependency: {fileID: 2800000, guid: 08307cab448ce6448befb3fd6fd72b1c, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: a85d80c1edb5d2f458d42e79f78055b9, type: 3}
     instantiationMode: 0
