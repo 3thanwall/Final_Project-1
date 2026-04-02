@@ -16440,8 +16440,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: be990093e918c4f028c443bcc90dd9f1, type: 3}
-  m_Resource: {fileID: 8300000, guid: be990093e918c4f028c443bcc90dd9f1, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b747bf5f5399a473295846553800caf1, type: 3}
+  m_Resource: {fileID: 8300000, guid: b747bf5f5399a473295846553800caf1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.48
   m_Pitch: 1
@@ -16451,8 +16451,8 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 147
   DopplerLevel: 1
-  MinDistance: 7.920792
-  MaxDistance: 8
+  MinDistance: 18.960388
+  MaxDistance: 23.240479
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 1
@@ -24937,19 +24937,19 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c11c6346a30a4411e8f761708a1f710c, type: 3}
-  m_Resource: {fileID: 8300000, guid: c11c6346a30a4411e8f761708a1f710c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 26bd35e6395b84ebd97b973de2c143de, type: 3}
+  m_Resource: {fileID: 8300000, guid: 26bd35e6395b84ebd97b973de2c143de, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 7.920792
-  MaxDistance: 8
+  MinDistance: 8
+  MaxDistance: 8.000001
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -25033,7 +25033,7 @@ Transform:
   m_GameObject: {fileID: 582640245}
   serializedVersion: 2
   m_LocalRotation: {x: -0.00867292, y: -0.000000013086679, z: 0.0009769864, w: 0.9999619}
-  m_LocalPosition: {x: -742.9479, y: 6.2887754, z: -6.5350003}
+  m_LocalPosition: {x: -742.9, y: 6.1, z: -14.7}
   m_LocalScale: {x: 0.9164063, y: 0.9164063, z: 0.9164063}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -59769,12 +59769,12 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c11c6346a30a4411e8f761708a1f710c, type: 3}
-  m_Resource: {fileID: 8300000, guid: c11c6346a30a4411e8f761708a1f710c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 26bd35e6395b84ebd97b973de2c143de, type: 3}
+  m_Resource: {fileID: 8300000, guid: 26bd35e6395b84ebd97b973de2c143de, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.74
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -59784,9 +59784,9 @@ AudioSource:
   MaxDistance: 8
   Pan2D: 0
   rolloffMode: 0
-  BypassEffects: 1
-  BypassListenerEffects: 1
-  BypassReverbZones: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -59816,7 +59816,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -69187,24 +69187,24 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8b01827d6499f4feba79a089d9ff5d74, type: 3}
-  m_Resource: {fileID: 8300000, guid: 8b01827d6499f4feba79a089d9ff5d74, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bc4a9d0ea624a41de835d46bdfda52a8, type: 3}
+  m_Resource: {fileID: 8300000, guid: bc4a9d0ea624a41de835d46bdfda52a8, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 7.920792
-  MaxDistance: 8
+  MinDistance: 18.361961
+  MaxDistance: 25.442383
   Pan2D: 0
   rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
+  BypassEffects: 1
+  BypassListenerEffects: 1
+  BypassReverbZones: 1
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -69283,7 +69283,7 @@ Transform:
   m_GameObject: {fileID: 1396968516}
   serializedVersion: 2
   m_LocalRotation: {x: -0.00867292, y: -0.000000013086679, z: 0.0009769864, w: 0.9999619}
-  m_LocalPosition: {x: -742.9479, y: 6.2887754, z: -6.5350003}
+  m_LocalPosition: {x: -742.9, y: 6.2, z: -13.1}
   m_LocalScale: {x: 0.9164063, y: 0.9164063, z: 0.9164063}
   m_ConstrainProportionsScale: 0
   m_Children: []
